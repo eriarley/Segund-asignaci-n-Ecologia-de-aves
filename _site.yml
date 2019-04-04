@@ -1,0 +1,12 @@
+name: "Reporte de Gira #2"
+navbar:
+  title: "Reporte de gira Chomes"
+  left:
+
+    - text: "Reporte"
+      href: index.html
+    - text: "Especies"
+      href: about.html
+    
+    
+
